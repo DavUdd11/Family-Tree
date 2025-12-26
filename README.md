@@ -1,4 +1,4 @@
-Family Tree (Coursework Project)
+# Family Tree (Coursework Project)
 
 A simple Python console program I built in my first-year university coursework to model a family tree and query relationships (parents, children, siblings, cousins, etc.) using object-oriented programming.
 
